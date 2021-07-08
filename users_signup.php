@@ -142,7 +142,7 @@ session_start();
 							<select class="form-select" name="gender">
 								<option selected>Select your gender</option>
 								<option value="Male">Male</option>
-								<option value="Female">Female</option>
+								<option value="Female"></option>
 								<option value="Other">Other</option>
 							</select>	
 						</div>
